@@ -74,11 +74,7 @@ Below are some visuals demonstrating AcAi’s features:
 ![Summary](Extras/readme_resources/experimental_insights.jpg)
 
 ### Demo Video
-<video width="700" controls>
-    <source src="Extras/readme_resources/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
+![experimental_insights](https://github.com/user-attachments/assets/700a198a-6127-412b-a7d4-6ac72fec1f4d)
 
 ## Challenges & Learnings
 
