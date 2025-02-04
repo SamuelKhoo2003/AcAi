@@ -68,13 +68,17 @@ Below are some visuals demonstrating AcAi’s features:
 
 ### Images
 ![Knowledge Graph](Extras/readme_resources/knowledge_graph.jpg)
-![Abstract Selection](AcAi\Extras\readme_resources\abstract_selection.jpg)
+![Abstract Selection](Extras/readme_resources/abstract_selection.jpg)
 ![Experiment Outline](Extras/readme_resources/experimental_outline.jpg)
 ![Code Execution](Extras/readme_resources/code_generation.jpg)
 ![Summary](Extras/readme_resources/experimental_insights.jpg)
 
 ### Demo Video
-[Demo Video](Extras/readme_resources/demo.mp4)
+<video width="700" controls>
+    <source src="Extras/readme_resources/demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 
 ## Challenges & Learnings
 
